@@ -1,8 +1,7 @@
 {
     "name": "nbr",
     "release": "12.3-RELEASE",
-    "artifact": "https://github.com/thienphuc13/iocage-plugin-nbr.git"
-.git",
+    "artifact": "https://github.com/thienphuc13/iocage-plugin-nbr.git",
     "properties": {
         "allow_raw_sockets": "1",
         "mount_devfs": "1",
